@@ -1,0 +1,7 @@
+C:\Users\TARUSHI\source\repos\BloodBank\obj\Debug\net8.0\BloodBank.csproj.AssemblyReference.cache
+C:\Users\TARUSHI\source\repos\BloodBank\obj\Debug\net8.0\BloodBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TARUSHI\source\repos\BloodBank\obj\Debug\net8.0\BloodBank.AssemblyInfoInputs.cache
+C:\Users\TARUSHI\source\repos\BloodBank\obj\Debug\net8.0\BloodBank.AssemblyInfo.cs
+C:\Users\TARUSHI\source\repos\BloodBank\obj\Debug\net8.0\BloodBank.csproj.CoreCompileInputs.cache
+C:\Users\TARUSHI\source\repos\BloodBank\obj\Debug\net8.0\BloodBank.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TARUSHI\source\repos\BloodBank\obj\Debug\net8.0\BloodBank.MvcApplicationPartsAssemblyInfo.cache
